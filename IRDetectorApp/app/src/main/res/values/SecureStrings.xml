@@ -1,0 +1,24 @@
+<resources>
+
+    <!-- Original Ad Ids-->
+    <string name="Admob_App_ID">ca-app-pub-6702661245453687~7252308654</string>
+
+    <string name="Ad_Banner_ID">ca-app-pub-6702661245453687/8729041850</string>
+    <string name="Ad_Int_ID">ca-app-pub-6702661245453687/2682508257</string>
+
+    <!-- Test ID
+        <string name="Admob_App_ID">ca-app-pub-3940256099942544~3347511713</string>
+
+    <string name="Ad_Banner_ID">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="Ad_Int_ID">ca-app-pub-3940256099942544/1033173712</string>
+-->
+
+
+    <string name="facebook_app_id">1874844112570152</string>
+    <string name="fb_login_protocol_scheme">fb1874844112570152</string>
+
+    <string name="MOPUB_AD_UNIT_ID">08a3780bc6a04a51a68e1de5f3e29691</string>
+    <string name="MOPUB_AD_INT_ID">7a291246642647a59717e0f6d667d42a</string>
+
+
+</resources>

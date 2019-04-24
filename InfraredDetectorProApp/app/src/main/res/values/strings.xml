@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">IR Detector</string>
+    <string name="hello">Hello World, CamTestActivity!</string>
+
+    <!-- UI Elements -->
+    <string name="btn_capture">Click</string>
+    <string name="app_version">2.0.0</string>
+
+
+    <!--           -->
+    <!-- Toast Messages -->
+    <string name="camera_not_found">Error 606: Camera Permission Problem</string>
+    <string name="take_photo_help">Touch anywhere on screen to take picture</string>
+    <string name="ir_about">Infrared Detector is Science-Fun app made for Educational use only</string>
+
+    <string name="ir_guide_para1">Infrared(IR) waves are invisible to eyes. Infrared detector can catch the IR waves with the help of phones camera and converts it into visible color form which you can see on screen.</string>
+    <string name="ir_guide_pare2">To see the presence of IR Radiation, keep your camera in front of any IR source like TV remote, night vision camera,etc</string>
+    <string name="ir_lim_pare1">Every android phone has different type of camera sensor due to which sensitivity of IR absorption in camera sensor varies hence sometimes app might not detect some IR frequencies.</string>
+    <string name="ir_lim_pare2">Note:Android camera is not design specific for IR radiation thats why on some phones app might not work</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_dem">dem</string>
+</resources>
