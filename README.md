@@ -24,5 +24,5 @@ Bug Report : http://goo.gl/forms/K5o2cr0cxk
 if there is any problem with app submit a bug report instead of giving low rating
 
 
-Follow Me on Google+: https://plus.google.com/+DeveshChaudhari95
-Follow Me on Facebook: https://www.facebook.com/ephrinepharma
+
+Follow Me on Facebook: https://www.facebook.com/ephrineapps
